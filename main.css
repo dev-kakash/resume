@@ -1,0 +1,61 @@
+
+h4{
+	font-weight: 800;
+}
+
+#profile-wrapper{
+    text-align:center;
+    font-size: 18px;
+}
+
+#edu-details{
+	text-align:center;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#profile-pic{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+ul{
+	
+	padding:0;
+}
+.social-link ul,li{
+	list-style-type: none;
+	display: inline-block;
+}
+
+
+.social{
+	width: 20px;
+	height: 20px;
+}
+.details{
+	font-size: 18px;
+
+}
+
+
+.details p{
+	padding: 15px;
+
+}
+
+.details ul{
+	padding-left: 15px;
+}
+
+.details h4{
+	text-align:center;
+}
+
+.footer p{
+	text-align:center;
+}
